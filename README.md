@@ -76,9 +76,8 @@ Características implementadas:
 
 ## 5. Análise de Desempenho
 Todas as operações principais apresentam complexidade O(n), garantindo:
-
--Boa performance mesmo com árvores grandes
+-Consistência nos tempos de execução
 
 -Escalabilidade adequada
 
--Consistência nos tempos de execução
+-Boa performance mesmo com árvores grandes
